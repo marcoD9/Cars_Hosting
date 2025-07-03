@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "model": "Aetheria",
+    "year": 2025,
+    "color": "Magnetic Blue",
+    "price": 75000,
+    "url": "https://cars-images-1234.netlify.app/Aetheria.png",
+    "description": " The Aetheria is a futuristic electric car that combines sleek design with cutting-edge technology. It features autonomous driving capabilities, a spacious interior, and an advanced infotainment system."
+  },
+  {
+    "id": 2,
+    "model": "Comet",
+    "year": 1965,
+    "color": "Gray",
+    "price": 150000,
+    "url": "https://cars-images-1234.netlify.app/Comet.png",
+    "description": "The Comet is a classic car known for its powerful engine and iconic design. It has been restored to its original glory, featuring a V8 engine, manual transmission, and vintage styling."
+  },
+  {
+    "id": 3,
+    "model": "Luminos",
+    "year": 2023,
+    "color": "Black",
+    "price": 300000,
+    "url": "https://cars-images-1234.netlify.app/Luminos.png",
+    "description": "The Luminos is a breathtaking masterpiece engineered for pure exhilaration. Its heart is a ferocious, naturally aspirated V12 engine that delivers an visceral surge of power, accompanied by a spine-tingling exhaust note."
+  },
+  {
+    "id": 4,
+    "model": "Regent",
+    "year": 1977,
+    "color": "White",
+    "price": 100000,
+    "url": "https://cars-images-1234.netlify.app/Regent.png",
+    "description": "The Regent is a vintage luxury car that exudes elegance and sophistication. It features a classic design with plush leather interiors, a powerful V8 engine, and all the comforts of a bygone era."
+  },
+  {
+    "id": 5,
+    "model": "Vanguard",
+    "year": 2025,
+    "color": "Charcoal",
+    "price": 250000,
+    "url": "https://cars-images-1234.netlify.app/Vanguard.png",
+    "description": "The Vanguard redefines electric performance, unleashing a silent, blistering acceleration that pins you to your seat. Its advanced dual-motor system delivers instant torque to all four wheels, ensuring precision handling and incredible agility on any road."
+  }
+]
